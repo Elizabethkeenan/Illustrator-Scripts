@@ -6,7 +6,8 @@
 
   Copyright (c) 2018
   www.ladyginpro.ru
-
+This code has been heavily edited from the original Gridder to better suit step and repeat behaviour for printing. 
+Select what you wish to print in a grid format
 */
 
 $.errorMessage = function (err) { alert(err + '\n' + err.line); };
